@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
 
-<h2> 👨‍🏫 About Me  
+<h2> 👨‍🏫 About Me  </h2>
 
 - I am an Electrical Engineer and a freelancer in various fields like data entry, photoshop, logo design, antenna design, and virtual assistant with professional skills. I am very passionate and dedicated to my work. And I am acquiring professional research experience as a part of an educational establishment.I am currently researching antenna applications where I design various types of novel antennas. Worked for one year and 6 months in Forex Trading, where I analyzed various algorithms and determined their feasibility for profitable trading.
 
@@ -45,7 +45,7 @@
    Port City International University  
    Chattogram, Bangladesh
  
-<h3> Language:  </h2>
+<h3> Language:  </h3>
 
    Bangla : Native  
    
