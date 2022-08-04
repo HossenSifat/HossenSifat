@@ -51,7 +51,7 @@
    
    English : Intermediate  
    
-   Chinese : Basic   
+     
    
 <h2> Sports / Game / Activities / Hobby:  </h2>
 
