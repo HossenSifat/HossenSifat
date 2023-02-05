@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **Hossainsifat755@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/hossensifat](https://sites.google.com/view/hossensifat)
+- 👨‍💻 All of my projects are available at https://www.novypro.com/profile_projects/md-sifathossen
 
 
 <h2 align="left">Connect with me:</h2>
