@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/md-sifat-hossen-b26b12165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sifat-hossen-b26b12165" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.google.com/url?q=https%3a%2f%2fwww.facebook.com%2fmd.sifathossen.3&sa=d&sntz=1&usg=aovvaw1vtv6epmiindbrd1hpffy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.google.com/url?q=https%3a%2f%2fwww.facebook.com%2fmd.sifathossen.3&sa=d&sntz=1&usg=aovvaw1vtv6epmiindbrd1hpffy8" height="30" width="40" /></a>
-<a href="https://instagram.com/nur_sifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nur_sifat" height="30" width="40" /></a>
+<a href="https://instagram.com/nur_sifat100?igshid=NTA5ZTk1NTc=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nur_sifat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC1n6AZ-Aclvak3N2I9hRFxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sifathossen" height="30" width="40" /></a>
 </p>
 <h2> My Skills:  </h2>
