@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **Hossainsifat755@gmail.com**
 
-- 👨‍💻 All of my projects are available at https://www.novypro.com/profile_projects/md-sifathossen
+- 👨‍💻 All of my projects are available at (https://www.mavenanalytics.io/profile/Md.-Sifat-Hossen/115243659)
 
 
 <h2 align="left">Connect with me:</h2>
