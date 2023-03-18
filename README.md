@@ -8,9 +8,11 @@
 
 - I am an Electrical Engineer and a freelancer in various fields like data entry, photoshop, logo design, antenna design, and virtual assistant with professional skills. I am very passionate and dedicated to my work. And I am acquiring professional research experience as a part of an educational establishment.I am currently researching antenna applications where I design various types of novel antennas. Worked for one year and 6 months in Forex Trading, where I analyzed various algorithms and determined their feasibility for profitable trading.
 
-- 🌱 I’m currently learning "Machine Learning"
+- 🌱 I’m interested in "Data Science"
 
-- 🤔 I’m looking for help in ML
+- 🌱 I’m currently learning "Data Analytics"
+
+- 🤔 I’m looking for colaborate in Data Science
 
 - 💬 Ask me about Forex or Anything
 
